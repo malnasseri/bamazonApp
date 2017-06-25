@@ -11,7 +11,7 @@ The Bamazon Customer Portal allows users to view the current items available for
 ![Customer Experience-3](./images/customer-6.png)
 
 
-#You can check Customer Experience by clicking the gif link below!
+**You can check Customer Experience by clicking the gif link below!**
 
 
 ("https://drive.google.com/file/d/0B6pTtcpgmhdjYUJ6OWxhc0YwaHM/view?usp=sharing")
