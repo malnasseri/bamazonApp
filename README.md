@@ -44,7 +44,7 @@ The last option allows the user to add a new product to the inventory. Prompts a
 
 
 
-("https://drive.google.com/file/d/0B6pTtcpgmhdjYUJ6OWxhc0YwaHM/view?usp=sharing")
+[blah]("https://drive.google.com/file/d/0B6pTtcpgmhdjYUJ6OWxhc0YwaHM/view?usp=sharing")
 
 
 
