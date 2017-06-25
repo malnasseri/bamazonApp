@@ -1,6 +1,6 @@
 # bamazonApp
 
-An interactive shopping node app where MySQL and Node.JS are used to allow users to purchase items as a customer, view, track and update the product inventory as a manager, and track the total sales by department as an executive.
+An interactive shopping node app where MySQL and Node.JS are used to allow users to purchase items as a customer, view, track and update the product inventory as a manager. 
 
 **Bamazon Customer Portal**
 
@@ -41,4 +41,20 @@ The last option allows the user to add a new product to the inventory. Prompts a
 ![Alt text](./images/manager-6.png)
 ![Alt text](./images/manager-7.png)
 ![Alt text](./images/manager-8.png)
+
+
+
+
+<a href="https://media.giphy.com/media/nrAsOXhuVwGEo/giphy.gif"></a>
+
+
+
+
+
+
+
+
+
+
+
 
