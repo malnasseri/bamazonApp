@@ -45,7 +45,7 @@ The last option allows the user to add a new product to the inventory. Prompts a
 
 
 
-<a href="https://media.giphy.com/media/nrAsOXhuVwGEo/giphy.gif"></a>
+![Demo]("https://media.giphy.com/media/nrAsOXhuVwGEo/giphy.gif")
 
 
 
