@@ -44,8 +44,7 @@ The last option allows the user to add a new product to the inventory. Prompts a
 
 
 
-
-	[Customer Experience Video!]("https://drive.google.com/file/d/0B6pTtcpgmhdjYUJ6OWxhc0YwaHM/view?usp=sharing")
+![Customer](https://drive.google.com/file/d/0B6pTtcpgmhdjYUJ6OWxhc0YwaHM/view?usp=sharing)
 
 
 
