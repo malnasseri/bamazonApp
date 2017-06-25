@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/malnasseri/bamazonApp.git"
+  },
+  "author": "M.Alnasseri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/malnasseri/bamazonApp/issues"
+  },
+  "homepage": "https://github.com/malnasseri/bamazonApp#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.1.2",
+    "inquirer": "^3.1.1",
+    "mysql": "^2.13.0"
+  }
+}
