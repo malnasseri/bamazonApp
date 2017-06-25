@@ -1,10 +1,10 @@
-
+  //requiring mysql npm
   var mysql = require("mysql");
-
+  //requiring cli-table npm
   var Table = require("cli-table");
-
+  //requiring colors npm
   var colors = require('colors');
-
+  //requiring inquirer npm
   var inquirer = require("inquirer");
   // create the connection information for the sql database
   var connection = mysql.createConnection({
@@ -28,7 +28,7 @@
             }
 }
 
-  
+  //creating function that prompt user to enter item id and quantity
   function promptUser() {
   
         // Prompt the user to select an item
@@ -112,14 +112,14 @@
 
                                               } 
                                               else {
-                                              
+                                              //printing out a goodbye message
                                               console.log(" Thanks Again for your order ".bold.inverse.green);
                                               connection.end();
                               }
                   })
                                     })
                             } else {
-                                    
+                                    //printing out results if order is more than stock quantity
                                     console.log("-----------------------------------------------------------------------------------------------\n");
                                     console.log('Unfortunately, There is not enough product in stock, your order can not be placed!\n'.red.bold);
                                     console.log(("We Have only: " + productData.stock_quantity + " peaces in stock\n").bold);
