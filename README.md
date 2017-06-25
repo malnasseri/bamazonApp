@@ -6,9 +6,15 @@ An interactive shopping node app where MySQL and Node.JS are used to allow users
 
 The Bamazon Customer Portal allows users to view the current items available for purchase. The user will be prompted to enter the item id# and how many items they wish to purchase. If the item is in stock, the order will be completed and the user will see the total amount of their purchase.
 
-![Alt text](./images/customer-1.png)
-![Alt text](./images/customer-3.png)
-![Alt text](./images/customer-6.png)
+![Customer Experience-1](./images/customer-1.png)
+![Customer Experience-2](./images/customer-3.png)
+![Customer Experience-3](./images/customer-6.png)
+
+
+#You can check Customer Experience by clicking the gif link below!
+
+
+("https://drive.google.com/file/d/0B6pTtcpgmhdjYUJ6OWxhc0YwaHM/view?usp=sharing")
 
 **Bamazon Manager Portal**
 
@@ -27,8 +33,8 @@ The first option allows the user to see the list of products that are currently 
 The second option allows the user to see a list of all inventory items that have less than 5 items in stock. If there are no products that meet this criteria, the user will see an empty table.
 
 
-![Alt text](./images/manager-2.png)
-![Alt text](./images/manager-3.png)
+![Manager Experience-2](./images/manager-2.png)
+![Manager Experience-3](./images/manager-3.png)
 
 
 **Manager Options 3 & 4**
@@ -38,13 +44,12 @@ The third option allows the user to update the inventory for a specific product.
 The last option allows the user to add a new product to the inventory. Prompts ask the user for the product id#, the product name, the department name, the price and the stock quantity.
 
 
-![Alt text](./images/manager-6.png)
-![Alt text](./images/manager-7.png)
-![Alt text](./images/manager-8.png)
+![Manager Experience-6](./images/manager-6.png)
+![Manager Experience-7](./images/manager-7.png)
+![Manager Experience-8](./images/manager-8.png)
 
 
 
-![Alt text]("https://drive.google.com/file/d/0B6pTtcpgmhdjYUJ6OWxhc0YwaHM/view?usp=sharing")
 
 
 
