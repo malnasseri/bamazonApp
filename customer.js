@@ -43,7 +43,7 @@
                           {
                             type: 'input',
                             name: 'quantity',
-                            message: 'Enter the Quantity, And then press Enter to place your order: ',
+                            message: 'Enter the Quantity!\n, And then press Enter to place your order: ',
                             validate: validateInput,
                             filter: Number
                           }
@@ -164,11 +164,6 @@
 }
 
 displayProducts();
-
-
-
-
-
 
 
 
