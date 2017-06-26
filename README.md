@@ -11,9 +11,9 @@ The Bamazon Customer Portal allows users to view the current items available for
 ![Customer Experience-3](./images/customer-6.png)
 
 
-**You can check Customer Experience by clicking the gif link below!**
+**You can check Customer Experience by clicking the video link below!**
 
-("https://drive.google.com/file/d/0B6pTtcpgmhdjWkxiUXNWS24yaUE/view?usp=sharing")
+("https://drive.google.com/file/d/0B6pTtcpgmhdjSHhabWYtNTdiZ3c/view?usp=sharing")
 
 **Bamazon Manager Portal**
 
@@ -48,9 +48,9 @@ The last option allows the user to add a new product to the inventory. Prompts a
 ![Manager Experience-8](./images/manager-8.png)
 
 
-**You can check Manager Experience by clicking the gif link below!**
+**You can check Manager Experience by clicking the video link below!**
 
-("https://drive.google.com/file/d/0B6pTtcpgmhdjV2xRNFBOMWVlYzg/view?usp=sharing")
+("https://drive.google.com/file/d/0B6pTtcpgmhdjS0lSYTZ2T1plQmc/view?usp=sharing")
 
 
 
