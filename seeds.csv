@@ -1,0 +1,16 @@
+"item_id";"product_name";"department_name";"price";"stock_quantity";"product_sales"
+2;"LED Helicopter";"Toys";30.0;68;0
+3;"Color Cube";"Toys";12.0;28;0
+4;"LED Flashlight";"Tools";20.0;28;0
+5;"Tools Set";"Tools";50.0;8;0
+8;"Body Wash";"Beauty";7.0;50;0
+10;"The Return";"Books";12.0;20;0
+11;"Sweat";"Books";14.0;25;0
+12;"The Revolution";"Books";15.0;3;0
+13;"Life";"Movies";8.0;15;0
+14;"Moana";"Movies";10.0;25;0
+15;"John Wick";"Movies";15.0;30;0
+31;"Makeup Kit";"Beauty";20.0;30;0
+33;"Logan";"Movies";30.0;30;0
+35;"LEGO Set";"Toys";32.0;25;0
+37;"Learning MySQL";"Books";10.0;12;0
